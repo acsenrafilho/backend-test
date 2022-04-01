@@ -4,7 +4,14 @@ Develop the workflow's REST API following the specification bellow and document 
 
 ## Delivery instructions
 
-Clone this project and push a private repository in the [GitHub](https://github.com/), [Gitlab](https://about.gitlab.com/) or [Bitbucket](https://bitbucket.org/). When you want to our review, write any information that you think important in the README.md and send an email to talentos@nuveo.ai. We'll follow your instructions to run your code and look the outcome. 
+Clone this project and push a private repository in the [GitHub](https://github.com/). When you feel confortable to share your code, please share the repo with the following emails: 
+   - antonio.filho@nuveo.ai
+   - cesar.gimenes
+   - 
+
+Recall to add as much information and details as possible, which will be useful to our evaluation. A tip is using a README.md file to create an easy documentation to explain your thoughts and decisions. We accept documentation written in Portuguese or English. Feel free to choose any of those languages. 
+
+Remember to explain the right way to execute your code!
 
 ## Defining a workflow
 
@@ -28,4 +35,7 @@ Clone this project and push a private repository in the [GitHub](https://github.
 
 - Go, C, C++, Python, Java or any other that you know
 - PostgreSQL
-- A message queue that you choose, but describe why you choose.
+- A message queue that you choose, but describe why you choose
+- Usage of TDD for the code development process
+
+In case of any doubts, please enter in contact with us using the emails cited above.
